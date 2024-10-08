@@ -1,16 +1,40 @@
-# shop_app
+# 🛍️ Shop App - Aplikasi Belanja Flutter
 
-A new Flutter project.
+**Shop App** adalah aplikasi belanja yang dibuat dengan Flutter, dirancang untuk memberikan pengalaman belanja yang mudah dan nyaman. Pengguna dapat melihat produk, menambahkannya ke keranjang, dan melanjutkan ke pembayaran dengan antarmuka yang menarik dan sederhana.
 
-## Getting Started
+## 📱 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 🛒 **Daftar Produk**: Menampilkan berbagai produk dengan gambar, harga, dan deskripsi.
+- 💳 **Keranjang Belanja**: Tambahkan produk ke keranjang dan lihat total belanja.
+- 🛍️ **Checkout**: Lanjutkan ke proses pembayaran dengan ringkasan pesanan.
+- 🔍 **Pencarian Produk**: Fitur pencarian untuk menemukan produk yang diinginkan dengan cepat.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📂 Struktur Proyek
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **lib/screens**: Berisi layar utama untuk daftar produk, detail produk, keranjang belanja, dan checkout.
+- **lib/widgets**: Komponen UI seperti kartu produk, tombol, dan daftar belanja.
+- **assets/images**: Gambar produk dan ikon aplikasi.
+
+## 📸 Screenshot
+
+Tampilan aplikasi Shop App:
+
+![Screenshot](readme.png)
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Flutter**: Framework UI untuk membangun aplikasi lintas platform.
+- **Dart**: Bahasa pemrograman untuk pengembangan aplikasi Flutter.
+
+## ✨ Fitur Mendatang
+
+- 🏷️ **Promo & Diskon**: Fitur untuk menampilkan promo dan diskon produk.
+- 🔔 **Notifikasi**: Pemberitahuan untuk produk baru dan penawaran khusus.
+- 🚚 **Pelacakan Pengiriman**: Melacak status pengiriman pesanan.
+
+
+
+---
+
+Terima kasih telah menggunakan **Shop App**! Selamat berbelanja! 🛒
